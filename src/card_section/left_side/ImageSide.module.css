@@ -1,0 +1,40 @@
+.side{
+  position: relative;
+  right: 25px;
+  width: 47%;
+  height: 92%;
+  background:radial-gradient(#ebe2d2, #f7f0e3);
+  box-shadow: 10px 3px 20px rgba(209, 208, 208, 0.555);
+  border-radius: 20px;
+
+}
+.top{
+  display:flex;
+  justify-content:space-between;
+  padding: 15px;
+  font-size: 25px;
+  color: #f7a027;
+}
+.view img{
+  position: relative;
+  left: -70px;
+}
+.bottom{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  height: 18%;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius: 20px;
+  background-color: aliceblue;
+}
+.bottom img{
+  width: 65px;
+  height: 80%;
+  margin: 0 7px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+.bottom img:hover{
+  background-color: #ebe2d249;
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "ProductDetails":{
+    "ProductCode": 50221,
+    "name": "Apple Watch Series 8",
+    "features":{
+      "1": "44mm or 40mm case size case size",
+      "2": "Swimproof and recreational diving to 40m2",
+      "3": "High and low heart rate notifications Irregular rhythm notification7",
+      "4": "Connect family members who don’t have an iPhone"
+    },
+    "price": "5,000",
+    "currency": "PKR",
+    "ProductColors":{
+      "1": "#FDD08F",
+      "2": "#F6DAD7",
+      "3": "#CEF1A1",
+      "4": "#C1BACE",
+      "5": "#A7B6B1"
+      }
+    },
+    "ProductImages": {
+      "1": "yellow",
+      "2": "ChalkPink",
+      "3": "lightGreen",
+      "4": "PurpleFog",
+      "5": "Succulent"
+    }
+ },
+ {
+  "id": 2,
+  "ProductCode": 50221,
+  "name": "Apple Watch Series 8",
+  "features":{
+    "1": "44mm or 40mm case size case size",
+    "2": "Swimproof and recreational diving to 40m2",
+    "3": "High and low heart rate notifications Irregular rhythm notification7",
+    "4": "Connect family members who don’t have an iPhone"
+  },
+  "price": "5,000",
+  "currency": "PKR",
+  "ProductColor": {
+    "1": "yellow",
+    "2": "ChalkPink",
+    "3": "lightGreen",
+    "4": "PurpleFog",
+    "5": "Succulent"
+  }
+},
+{
+  "id": 3,
+  "ProductCode": 50221,
+  "name": "Apple Watch Series 8",
+  "features":{
+    "1": "44mm or 40mm case size case size",
+    "2": "Swimproof and recreational diving to 40m2",
+    "3": "High and low heart rate notifications Irregular rhythm notification7",
+    "4": "Connect family members who don’t have an iPhone"
+  },
+  "price": "5,000",
+  "currency": "PKR",
+  "ProductColor": {
+    "1": "yellow",
+    "2": "ChalkPink",
+    "3": "lightGreen",
+    "4": "PurpleFog",
+    "5": "Succulent"
+  }
+},
+ {
+  "id": 4,
+  "ProductCode": 50221,
+  "name": "Apple Watch Series 8",
+  "features":{
+    "1": "44mm or 40mm case size case size",
+    "2": "Swimproof and recreational diving to 40m2",
+    "3": "High and low heart rate notifications Irregular rhythm notification7",
+    "4": "Connect family members who don’t have an iPhone"
+  },
+  "price": "5,000",
+  "currency": "PKR",
+  "ProductColor": {
+    "1": "yellow",
+    "2": "ChalkPink",
+    "3": "lightGreen",
+    "4": "PurpleFog",
+    "5": "Succulent"
+  }
+}
+]

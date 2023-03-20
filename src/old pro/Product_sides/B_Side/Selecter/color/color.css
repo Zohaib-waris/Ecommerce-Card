@@ -1,0 +1,16 @@
+.color{
+    margin-left: 35px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.First_color{
+    background-color: rgb(226, 162, 43);
+}
+.second_color{
+    background-color: rgb(43, 183, 226);
+}
+.third_color{
+    background-color: rgb(80, 226, 43)
+}

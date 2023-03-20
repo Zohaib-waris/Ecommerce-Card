@@ -1,0 +1,12 @@
+.cart{
+    padding: 15px 30px 15px 30px;
+    margin: 5px;
+    margin-left: 60px;
+    font-size: 120%;
+    border-radius: 10px;
+    background-color: rgb(252, 36, 36);
+    box-shadow: 8px 8px  30px  rgba(112, 118, 126, 0.253);
+}
+.cart:hover{
+    background-color: rgb(236, 6, 6);
+}

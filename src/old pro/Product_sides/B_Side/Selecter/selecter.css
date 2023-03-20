@@ -1,0 +1,11 @@
+.select_text{
+    font-size: 120%;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: -10px;
+}
+.colors{
+    display: flex;
+    flex-direction: row;
+    
+}

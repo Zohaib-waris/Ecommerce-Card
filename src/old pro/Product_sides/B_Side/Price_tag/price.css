@@ -1,0 +1,15 @@
+.price_section{
+    display: flex;
+    flex-direction: row;
+    margin-top: -30px;
+}
+.Tag{
+    margin-top:auto ;
+    margin-bottom: auto;
+    font-size: 230%;
+}
+.Rs{
+    color: rgb(5, 160, 5) ;
+    font-size: 300%;
+    margin-left: 8px;
+}
